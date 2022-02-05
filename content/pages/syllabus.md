@@ -16,29 +16,201 @@ This course covers the basics of general relativity, standard big bang cosmology
 
 Topics were presented in the following order:
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Part 1: General Relativity**{{< /td-colspan >}} ||
-| 1.1 | Transformations and Metric |
-| 1.2 | Covariant Derivatives: Affine Structure |
-| 1.3 | Covariant Derivatives: Metric |
-| 1.4 | Invariant Measure |
-| 1.5 | Curvature |
-| 1.6 | Invariant Actions |
-| 1.7 | Field Equations |
-| 1.8 | Newtonian Limit |
-| {{< td-colspan 2 >}}**Part 2: Cosmological Models with Idealized Matter**{{< /td-colspan >}} ||
-| 2.1 | Model Spaces: Construction |
-| 2.2 | Friedmann-Robertson-Walker (FRW) Spacetimes |
-| 2.3 | Curvature Calculations |
-| 2.4 | FRW Dynamics |
-| 2.5 | Canonical Model Cosmologies |
-| 2.6 | Global Structure and Causality Relations |
-| 2.7 | Measures of Space-Time Geometry |
-| 2.8 | Olbers' Paradox |
-| {{< td-colspan 2 >}}**Part 3: Cosmological Models with Known Matter**{{< /td-colspan >}} ||
-| 3.1 | Effect of Expansion on Matter |
-| 3.2 | Effect of Expansion on Free Thermal Distributions 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part 1: General Relativity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.1
+{{< tdclose >}}
+{{< tdopen >}}
+Transformations and Metric
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.2
+{{< tdclose >}}
+{{< tdopen >}}
+Covariant Derivatives: Affine Structure
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.3
+{{< tdclose >}}
+{{< tdopen >}}
+Covariant Derivatives: Metric
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.4
+{{< tdclose >}}
+{{< tdopen >}}
+Invariant Measure
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.5
+{{< tdclose >}}
+{{< tdopen >}}
+Curvature
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.6
+{{< tdclose >}}
+{{< tdopen >}}
+Invariant Actions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.7
+{{< tdclose >}}
+{{< tdopen >}}
+Field Equations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.8
+{{< tdclose >}}
+{{< tdopen >}}
+Newtonian Limit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part 2: Cosmological Models with Idealized Matter**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.1
+{{< tdclose >}}
+{{< tdopen >}}
+Model Spaces: Construction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.2
+{{< tdclose >}}
+{{< tdopen >}}
+Friedmann-Robertson-Walker (FRW) Spacetimes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.3
+{{< tdclose >}}
+{{< tdopen >}}
+Curvature Calculations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.4
+{{< tdclose >}}
+{{< tdopen >}}
+FRW Dynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.5
+{{< tdclose >}}
+{{< tdopen >}}
+Canonical Model Cosmologies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.6
+{{< tdclose >}}
+{{< tdopen >}}
+Global Structure and Causality Relations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.7
+{{< tdclose >}}
+{{< tdopen >}}
+Measures of Space-Time Geometry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.8
+{{< tdclose >}}
+{{< tdopen >}}
+Olbers' Paradox
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part 3: Cosmological Models with Known Matter**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3.1
+{{< tdclose >}}
+{{< tdopen >}}
+Effect of Expansion on Matter
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3.2
+{{< tdclose >}}
+{{< tdopen >}}
+Effect of Expansion on Free Thermal Distributions
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Prerequisites
 -------------
